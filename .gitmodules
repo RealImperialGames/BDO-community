@@ -1,0 +1,15 @@
+[submodule "modules/BDOC-utils"]
+	path = modules/BDOC-utils
+	url = https://github.com/RealImperialGames/BDOC-utils
+[submodule "modules/BDOC-core"]
+	path = modules/BDOC-core
+	url = https://github.com/RealImperialGames/BDOC-core
+[submodule "modules/BDOC-db"]
+	path = modules/BDOC-db
+	url = https://github.com/RealImperialGames/BDOC-db
+[submodule "modules/BDOC-client"]
+	path = modules/BDOC-client
+	url = https://github.com/RealImperialGames/BDOC-client
+[submodule "modules/BDOC-server"]
+	path = modules/BDOC-server
+	url = https://github.com/RealImperialGames/BDOC-server
