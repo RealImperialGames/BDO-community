@@ -65,8 +65,8 @@ We welcome contributions to BDO-community! These are the many ways you can help:
 * Report bugs 
 * And Donate bdoc-donate_ !
 
-Please read our documentation to get started. Also note that this project
-is released with a `code of conduct<bdoc-conduct_>`, please make sure to review and follow it.
+Please read our **documentation** to get started. Also note that this project
+is released with a **`Code of conduct`_** , please make sure to review and follow it.
 
 
 
@@ -87,4 +87,4 @@ is released with a `code of conduct<bdoc-conduct_>`, please make sure to review 
 .. _bdoc-client: https://realimperialgames.github.io/BDOC-client
 .. _bdoc-server: https://realimperialgames.github.io/BDOC-server
 .. _bdoc-donate: https://opencollective.com/BDO-community
-.. _bdoc-conduct: https://github.com/RealImperialGames/BDO-community/CODE_OF_CONDUCT.md
+.. _Code of conduct: https://github.com/RealImperialGames/BDO-community/CODE_OF_CONDUCT.md
