@@ -37,7 +37,7 @@ How to exec tests ?
 
 
 How to download from Github ? ( *development, documentation, testing, design* )
--------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *We are using Git-submodule functionality to handle all projects as independent packages*
 
