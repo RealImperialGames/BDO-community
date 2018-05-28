@@ -20,7 +20,7 @@ BDO-community ( *Black Desert Online Community* )
 +--------------+--------------------------+---------------------------+---------------------------+--------------------------+--------------------------+
 | Branch name  | BDOC-utils               | BDOC-core                 | BDOC-db                   | BDOC-client              | BDOC-server              |
 +==============+==========================+===========================+===========================+==========================+==========================+
-| master       | |bdoc-utils_lin|         | |bdoc-core _lin|          | |bdoc-db_lin|             | |bdoc-client_lin|        | |bdoc-server_lin|        |
+| master       | |bdoc-utils_lin|         | |bdoc-core_lin|           | |bdoc-db_lin|             | |bdoc-client_lin|        | |bdoc-server_lin|        |
 |              | |bdoc-utils_win|         | |bdoc-core_win|           | |bdoc-db_win|             | |bdoc-client_win|        | |bdoc-server_win|        |
 +--------------+--------------------------+---------------------------+---------------------------+--------------------------+--------------------------+
 
@@ -58,6 +58,7 @@ Documentation
 .. |bdoc-server_win| image:: https://ci.appveyor.com/api/projects/status/-/branch/master?svg=true
 .. _bdo-community: https://realimperialgames.github.io/BDO-community
 .. _bdoc-utils: https://realimperialgames.github.io/BDOC-utils
+.. _bdoc-core: https://realimperialgames.github.io/BDOC-core
 .. _bdoc-db: https://realimperialgames.github.io/BDOC-db
 .. _bdoc-client: https://realimperialgames.github.io/BDOC-client
 .. _bdoc-server: https://realimperialgames.github.io/BDOC-server
